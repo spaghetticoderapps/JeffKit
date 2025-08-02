@@ -41,7 +41,7 @@ public struct CrossPromotionView: View {
                     .cornerRadius(14)
                     .shadow(color: .black.opacity(0.1), radius: 4, x: 0, y: 2)
                 
-                VStack(alignment: .leading, spacing: 4) {
+                VStack(alignment: .leading, spacing: 6) {
                     Text(app.name)
                         .font(.headline)
                         .foregroundColor(.primary)
@@ -50,14 +50,15 @@ public struct CrossPromotionView: View {
                         .font(.subheadline)
                         .foregroundColor(.secondary)
                         .multilineTextAlignment(.leading)
-                        .lineLimit(2)
+                        .lineLimit(nil)
+                        .fixedSize(horizontal: false, vertical: true)
                 }
                 
                 Spacer()
                 
-                Image(systemName: "arrow.up.forward.app.fill")
-                    .foregroundColor(app.tintColor)
-                    .font(.title2)
+                Image(systemName: "chevron.right")
+                    .foregroundColor(.secondary)
+                    .font(.caption)
             }
             .padding()
             .background(
