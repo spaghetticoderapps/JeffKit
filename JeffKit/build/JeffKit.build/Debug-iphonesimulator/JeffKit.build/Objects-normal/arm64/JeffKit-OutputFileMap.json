@@ -1,0 +1,68 @@
+{
+  "" : {
+    "diagnostics" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/JeffKit-master.dia",
+    "emit-module-dependencies" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/JeffKit-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/JeffKit-master-emit-module.dia",
+    "swift-dependencies" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/JeffKit-master.swiftdeps"
+  },
+  "/Users/jeffcedilla/iOS/JeffKit/JeffKit/Sources/JeffKit/Eventer.swift" : {
+    "const-values" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/Eventer.swiftconstvalues",
+    "dependencies" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/Eventer.d",
+    "diagnostics" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/Eventer.dia",
+    "index-unit-output-path" : "/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/Eventer.o",
+    "llvm-bc" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/Eventer.bc",
+    "object" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/Eventer.o",
+    "swift-dependencies" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/Eventer.swiftdeps",
+    "swiftmodule" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/Eventer~partial.swiftmodule"
+  },
+  "/Users/jeffcedilla/iOS/JeffKit/JeffKit/Sources/JeffKit/FeatureFlagManager.swift" : {
+    "const-values" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/FeatureFlagManager.swiftconstvalues",
+    "dependencies" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/FeatureFlagManager.d",
+    "diagnostics" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/FeatureFlagManager.dia",
+    "index-unit-output-path" : "/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/FeatureFlagManager.o",
+    "llvm-bc" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/FeatureFlagManager.bc",
+    "object" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/FeatureFlagManager.o",
+    "swift-dependencies" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/FeatureFlagManager.swiftdeps",
+    "swiftmodule" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/FeatureFlagManager~partial.swiftmodule"
+  },
+  "/Users/jeffcedilla/iOS/JeffKit/JeffKit/Sources/JeffKit/Haptics.swift" : {
+    "const-values" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/Haptics.swiftconstvalues",
+    "dependencies" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/Haptics.d",
+    "diagnostics" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/Haptics.dia",
+    "index-unit-output-path" : "/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/Haptics.o",
+    "llvm-bc" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/Haptics.bc",
+    "object" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/Haptics.o",
+    "swift-dependencies" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/Haptics.swiftdeps",
+    "swiftmodule" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/Haptics~partial.swiftmodule"
+  },
+  "/Users/jeffcedilla/iOS/JeffKit/JeffKit/Sources/JeffKit/JeffKit.swift" : {
+    "const-values" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/JeffKit.swiftconstvalues",
+    "dependencies" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/JeffKit.d",
+    "diagnostics" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/JeffKit.dia",
+    "index-unit-output-path" : "/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/JeffKit.o",
+    "llvm-bc" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/JeffKit.bc",
+    "object" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/JeffKit.o",
+    "swift-dependencies" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/JeffKit.swiftdeps",
+    "swiftmodule" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/JeffKit~partial.swiftmodule"
+  },
+  "/Users/jeffcedilla/iOS/JeffKit/JeffKit/Sources/JeffKit/LottieView.swift" : {
+    "const-values" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/LottieView.swiftconstvalues",
+    "dependencies" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/LottieView.d",
+    "diagnostics" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/LottieView.dia",
+    "index-unit-output-path" : "/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/LottieView.o",
+    "llvm-bc" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/LottieView.bc",
+    "object" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/LottieView.o",
+    "swift-dependencies" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/LottieView.swiftdeps",
+    "swiftmodule" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/LottieView~partial.swiftmodule"
+  },
+  "/Users/jeffcedilla/iOS/JeffKit/JeffKit/Sources/JeffKit/WishKitView.swift" : {
+    "const-values" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/WishKitView.swiftconstvalues",
+    "dependencies" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/WishKitView.d",
+    "diagnostics" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/WishKitView.dia",
+    "index-unit-output-path" : "/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/WishKitView.o",
+    "llvm-bc" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/WishKitView.bc",
+    "object" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/WishKitView.o",
+    "swift-dependencies" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/WishKitView.swiftdeps",
+    "swiftmodule" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphonesimulator/JeffKit.build/Objects-normal/arm64/WishKitView~partial.swiftmodule"
+  }
+}

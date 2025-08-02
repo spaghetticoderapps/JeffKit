@@ -41,6 +41,10 @@ public class Eventer {
     public func trackScreenView(screenName: String) {
         Mixpanel.mainInstance().track(event: "Screen Viewed", properties: ["screen_name": screenName])
     }
+    
+    public func track(_ eventName: String, properties: Properties? = nil) {
+        Mixpanel.mainInstance().track(event: eventName, properties: properties)
+    }
 }
 
 public protocol EventTracking {

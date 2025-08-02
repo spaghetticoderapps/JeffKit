@@ -32,6 +32,9 @@ let package = Package(
                 .product(name: "Mixpanel", package: "mixpanel-swift"),
                 .product(name: "WishKit", package: "wishkit-ios"),
                 .product(name: "Lottie", package: "lottie-ios")
+            ],
+            resources: [
+                .process("Resources")
             ]
         ),
         .testTarget(
