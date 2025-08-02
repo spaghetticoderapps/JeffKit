@@ -211,13 +211,13 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%lld other apps by Jeff"
+            "value" : "%lld other apps by this developer"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%lld otras aplicaciones de Jeff"
+            "value" : "%lld otras aplicaciones de este desarrollador"
           }
         }
       }
