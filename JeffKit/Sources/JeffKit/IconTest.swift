@@ -17,7 +17,7 @@ public struct IconTestView: View {
                             .frame(width: 50, height: 50)
                             .cornerRadius(10)
                         
-                        Text(app.name)
+                        Text(app.localizedName)
                             .font(.caption)
                             .lineLimit(1)
                     }

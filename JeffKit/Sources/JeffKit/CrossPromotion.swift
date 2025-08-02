@@ -2,19 +2,27 @@ import SwiftUI
 
 public struct AppInfo: Sendable {
     public let id: String
-    public let name: String
-    public let description: String
+    public let nameKey: String
+    public let descriptionKey: String
     public let iconName: String
     public let appStoreId: String
     public let tintColor: Color
     
-    public init(id: String, name: String, description: String, iconName: String, appStoreId: String, tintColor: Color) {
+    public init(id: String, nameKey: String, descriptionKey: String, iconName: String, appStoreId: String, tintColor: Color) {
         self.id = id
-        self.name = name
-        self.description = description
+        self.nameKey = nameKey
+        self.descriptionKey = descriptionKey
         self.iconName = iconName
         self.appStoreId = appStoreId
         self.tintColor = tintColor
+    }
+    
+    public var localizedName: String {
+        NSLocalizedString(nameKey, bundle: .module, comment: "")
+    }
+    
+    public var localizedDescription: String {
+        NSLocalizedString(descriptionKey, bundle: .module, comment: "")
     }
 }
 
@@ -30,7 +38,7 @@ public struct CrossPromotionView: View {
         Button(action: {
             if let url = URL(string: "https://apps.apple.com/app/id\(app.appStoreId)") {
                 UIApplication.shared.open(url)
-                Eventer.shared.tap("Cross Promotion - \(app.name)")
+                Eventer.shared.tap("Cross Promotion - \(app.localizedName)")
             }
         }) {
             HStack(spacing: 16) {
@@ -42,11 +50,11 @@ public struct CrossPromotionView: View {
                     .shadow(color: .black.opacity(0.1), radius: 4, x: 0, y: 2)
                 
                 VStack(alignment: .leading, spacing: 6) {
-                    Text(app.name)
+                    Text(app.localizedName)
                         .font(.headline)
                         .foregroundColor(.primary)
                     
-                    Text(app.description)
+                    Text(app.localizedDescription)
                         .font(.subheadline)
                         .foregroundColor(.secondary)
                         .multilineTextAlignment(.leading)
@@ -93,7 +101,7 @@ public struct CrossPromotionListView: View {
     public var body: some View {
         ScrollView {
             VStack(spacing: 16) {
-                Text("Discover more apps designed to help you live better")
+                Text(NSLocalizedString("cross_promotion.discover_apps", bundle: .module, comment: ""))
                     .font(.subheadline)
                     .foregroundColor(.secondary)
                     .multilineTextAlignment(.center)
@@ -128,7 +136,7 @@ public struct CrossPromotionNavigationRow: View {
     public var body: some View {
         NavigationLink {
             CrossPromotionListView(apps: apps, currentAppId: currentAppId)
-                .navigationTitle("More Apps")
+                .navigationTitle(NSLocalizedString("cross_promotion.more_apps", bundle: .module, comment: ""))
                 .navigationBarTitleDisplayMode(.inline)
         } label: {
             HStack {
@@ -138,10 +146,10 @@ public struct CrossPromotionNavigationRow: View {
                     .frame(width: 30)
                 
                 VStack(alignment: .leading) {
-                    Text("More Apps")
+                    Text(NSLocalizedString("cross_promotion.more_apps", bundle: .module, comment: ""))
                         .foregroundColor(.primary)
                     if otherAppsCount > 0 {
-                        Text("\(otherAppsCount) other apps by Jeff")
+                        Text(String(format: NSLocalizedString("cross_promotion.other_apps_count", bundle: .module, comment: "Number of other apps by Jeff"), otherAppsCount))
                             .font(.caption)
                             .foregroundColor(Color("CourtGray"))
                     }
@@ -173,11 +181,11 @@ struct CrossPromotionRow: View {
                 .cornerRadius(9)
             
             VStack(alignment: .leading, spacing: 2) {
-                Text(app.name)
+                Text(app.localizedName)
                     .font(.body)
                     .foregroundColor(.primary)
                 
-                Text(app.description)
+                Text(app.localizedDescription)
                     .font(.caption)
                     .foregroundColor(.secondary)
                     .lineLimit(1)
@@ -189,7 +197,7 @@ struct CrossPromotionRow: View {
         .onTapGesture {
             if let url = URL(string: "https://apps.apple.com/app/id\(app.appStoreId)") {
                 UIApplication.shared.open(url)
-                Eventer.shared.tap("Cross Promotion Row - \(app.name)")
+                Eventer.shared.tap("Cross Promotion Row - \(app.localizedName)")
             }
         }
     }
@@ -198,8 +206,8 @@ struct CrossPromotionRow: View {
 public class JeffApps {
     public static let pickleballHub = AppInfo(
         id: "pickleball-hub",
-        name: "PickleballHub",
-        description: "Join thousands of players tracking their games and improving their skills. Find courts, connect with players, and level up your pickleball game!",
+        nameKey: "app.pickleball.name",
+        descriptionKey: "app.pickleball.description",
         iconName: "PickleballHubIcon",
         appStoreId: "6670420347",
         tintColor: Color.green
@@ -207,8 +215,8 @@ public class JeffApps {
     
     public static let gratitudeJournal = AppInfo(
         id: "gratitude-journal",
-        name: "Gratitude Journal",
-        description: "Transform your mindset in just 3 minutes a day. Beautiful themes, inspiring prompts, and watch your happiness grow like a tree!",
+        nameKey: "app.gratitude.name",
+        descriptionKey: "app.gratitude.description",
         iconName: "GratitudeJournalIcon",
         appStoreId: "6450279060",
         tintColor: Color.orange
@@ -216,8 +224,8 @@ public class JeffApps {
     
     public static let habitTracker = AppInfo(
         id: "habit-tracker",
-        name: "One Habit Tracker",
-        description: "Build life-changing habits with our beautiful, minimalist tracker. See your progress, stay motivated, and become your best self!",
+        nameKey: "app.habittracker.name",
+        descriptionKey: "app.habittracker.description",
         iconName: "HabitTrackerIcon",
         appStoreId: "6477730845",
         tintColor: Color.blue
@@ -225,8 +233,8 @@ public class JeffApps {
     
     public static let flashcards = AppInfo(
         id: "flashcards",
-        name: "Flash Cards Master",
-        description: "Master any subject with smart flashcards. Perfect for students, professionals, and lifelong learners. Study smarter, not harder!",
+        nameKey: "app.flashcards.name",
+        descriptionKey: "app.flashcards.description",
         iconName: "FlashcardsIcon",
         appStoreId: "6502370881",
         tintColor: Color.purple
@@ -234,8 +242,8 @@ public class JeffApps {
     
     public static let promptManager = AppInfo(
         id: "prompt-manager",
-        name: "Prompt Manager AI",
-        description: "Supercharge your AI workflow! Save, organize, and quickly access your best prompts. The ultimate tool for AI power users.",
+        nameKey: "app.promptmanager.name",
+        descriptionKey: "app.promptmanager.description",
         iconName: "PromptManagerIcon",
         appStoreId: "6738073662",
         tintColor: Color.indigo

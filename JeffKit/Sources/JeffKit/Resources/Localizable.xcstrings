@@ -1,0 +1,227 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "app.gratitude.description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Transform your mindset in just 3 minutes a day. Beautiful themes, inspiring prompts, and watch your happiness grow like a tree!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Transforma tu mentalidad en solo 3 minutos al día. Temas hermosos, inspiraciones motivadoras, ¡y ve tu felicidad crecer como un árbol!"
+          }
+        }
+      }
+    },
+    "app.gratitude.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gratitude Journal"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diario de Gratitud"
+          }
+        }
+      }
+    },
+    "app.habittracker.description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Build life-changing habits with our beautiful, minimalist tracker. See your progress, stay motivated, and become your best self!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Construye hábitos que cambien tu vida con nuestro hermoso y minimalista rastreador. Ve tu progreso, mantente motivado, ¡y conviértete en tu mejor versión!"
+          }
+        }
+      }
+    },
+    "app.habittracker.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "One Habit Tracker"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rastreador de Hábitos"
+          }
+        }
+      }
+    },
+    "app.flashcards.description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Master any subject with smart flashcards. Perfect for students, professionals, and lifelong learners. Study smarter, not harder!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Domina cualquier materia con tarjetas inteligentes. Perfecto para estudiantes, profesionales y aprendices de por vida. ¡Estudia de forma más inteligente, no más difícil!"
+          }
+        }
+      }
+    },
+    "app.flashcards.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flash Cards Master"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maestro de Tarjetas"
+          }
+        }
+      }
+    },
+    "app.pickleball.description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Join thousands of players tracking their games and improving their skills. Find courts, connect with players, and level up your pickleball game!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Únete a miles de jugadores que siguen sus partidos y mejoran sus habilidades. ¡Encuentra canchas, conéctate con jugadores y mejora tu juego de pickleball!"
+          }
+        }
+      }
+    },
+    "app.pickleball.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PickleballHub"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PickleballHub"
+          }
+        }
+      }
+    },
+    "app.promptmanager.description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Supercharge your AI workflow! Save, organize, and quickly access your best prompts. The ultimate tool for AI power users."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Potencia tu flujo de trabajo con IA! Guarda, organiza y accede rápidamente a tus mejores prompts. La herramienta definitiva para usuarios avanzados de IA."
+          }
+        }
+      }
+    },
+    "app.promptmanager.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prompt Manager AI"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gestor de Prompts IA"
+          }
+        }
+      }
+    },
+    "cross_promotion.discover_apps" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Discover more apps designed to help you live better"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Descubre más aplicaciones diseñadas para ayudarte a vivir mejor"
+          }
+        }
+      }
+    },
+    "cross_promotion.more_apps" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "More Apps"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Más Aplicaciones"
+          }
+        }
+      }
+    },
+    "cross_promotion.other_apps_count" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld other apps by Jeff"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld otras aplicaciones de Jeff"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
