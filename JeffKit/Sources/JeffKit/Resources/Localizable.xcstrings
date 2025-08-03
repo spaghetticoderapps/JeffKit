@@ -171,6 +171,142 @@
         }
       }
     },
+    "app.victorylog.description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Track your wins, celebrate progress, and build unstoppable momentum. Transform small victories into lasting success!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registra tus victorias, celebra el progreso y construye un impulso imparable. ¡Transforma pequeñas victorias en éxito duradero!"
+          }
+        }
+      }
+    },
+    "app.victorylog.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Victory Log"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registro de Victorias"
+          }
+        }
+      }
+    },
+    "app.recipes.description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Organize your culinary adventures! Save recipes, plan meals, and create shopping lists. Your personal sous chef for kitchen success."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Organiza tus aventuras culinarias! Guarda recetas, planifica comidas y crea listas de compras. Tu chef personal para el éxito en la cocina."
+          }
+        }
+      }
+    },
+    "app.recipes.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sous: Recipe Organizer"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sous: Organizador de Recetas"
+          }
+        }
+      }
+    },
+    "app.pizza.description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perfect your pizza game! Journal your creations, calculate dough ratios, and discover recipes for every style from Neapolitan to Detroit."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Perfecciona tu juego de pizza! Registra tus creaciones, calcula proporciones de masa y descubre recetas para cada estilo desde napolitana hasta Detroit."
+          }
+        }
+      }
+    },
+    "app.pizza.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Za - Pizza Journal"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Za - Diario de Pizza"
+          }
+        }
+      }
+    },
+    "app.pomodoroquest.description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Level up your productivity! Gamified Pomodoro timer with RPG elements. Earn XP, unlock achievements, and defeat procrastination!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Sube de nivel tu productividad! Temporizador Pomodoro gamificado con elementos RPG. ¡Gana XP, desbloquea logros y derrota la procrastinación!"
+          }
+        }
+      }
+    },
+    "app.pomodoroquest.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PomodoroQuest"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PomodoroQuest"
+          }
+        }
+      }
+    },
     "cross_promotion.discover_apps" : {
       "extractionState" : "manual",
       "localizations" : {

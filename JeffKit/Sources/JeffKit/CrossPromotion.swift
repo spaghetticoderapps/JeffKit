@@ -249,11 +249,51 @@ public class JeffApps {
         tintColor: Color.indigo
     )
     
+    public static let victoryLog = AppInfo(
+        id: "victory-log",
+        nameKey: "app.victorylog.name",
+        descriptionKey: "app.victorylog.description",
+        iconName: "VictoryLogIcon",
+        appStoreId: "6449656780",
+        tintColor: Color.yellow
+    )
+    
+    public static let recipes = AppInfo(
+        id: "recipes",
+        nameKey: "app.recipes.name",
+        descriptionKey: "app.recipes.description",
+        iconName: "RecipesIcon",
+        appStoreId: "6449123456",
+        tintColor: Color.orange
+    )
+    
+    public static let pizza = AppInfo(
+        id: "pizza",
+        nameKey: "app.pizza.name",
+        descriptionKey: "app.pizza.description",
+        iconName: "PizzaIcon",
+        appStoreId: "6449789012",
+        tintColor: Color.red
+    )
+    
+    public static let pomodoroQuest = AppInfo(
+        id: "pomodoro-quest",
+        nameKey: "app.pomodoroquest.name",
+        descriptionKey: "app.pomodoroquest.description",
+        iconName: "PomodoroQuestIcon",
+        appStoreId: "6449345678",
+        tintColor: Color.purple
+    )
+    
     public static let all: [AppInfo] = [
         pickleballHub,
         gratitudeJournal,
         habitTracker,
         flashcards,
-        promptManager
+        promptManager,
+        victoryLog,
+        recipes,
+        pizza,
+        pomodoroQuest
     ]
 }
