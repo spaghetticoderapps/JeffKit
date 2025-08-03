@@ -209,7 +209,7 @@ public class JeffApps {
         nameKey: "app.pickleball.name",
         descriptionKey: "app.pickleball.description",
         iconName: "PickleballHubIcon",
-        appStoreId: "6670420347",
+        appStoreId: "6748840036",
         tintColor: Color.green
     )
     
@@ -218,7 +218,7 @@ public class JeffApps {
         nameKey: "app.gratitude.name",
         descriptionKey: "app.gratitude.description",
         iconName: "GratitudeJournalIcon",
-        appStoreId: "6450279060",
+        appStoreId: "6743777694",
         tintColor: Color.orange
     )
     
@@ -227,7 +227,7 @@ public class JeffApps {
         nameKey: "app.habittracker.name",
         descriptionKey: "app.habittracker.description",
         iconName: "HabitTrackerIcon",
-        appStoreId: "6477730845",
+        appStoreId: "6748330634",
         tintColor: Color.blue
     )
     
@@ -236,7 +236,7 @@ public class JeffApps {
         nameKey: "app.flashcards.name",
         descriptionKey: "app.flashcards.description",
         iconName: "FlashcardsIcon",
-        appStoreId: "6502370881",
+        appStoreId: "6747951708",
         tintColor: Color.purple
     )
     
@@ -245,7 +245,7 @@ public class JeffApps {
         nameKey: "app.promptmanager.name",
         descriptionKey: "app.promptmanager.description",
         iconName: "PromptManagerIcon",
-        appStoreId: "6738073662",
+        appStoreId: "6748180031",
         tintColor: Color.indigo
     )
     
@@ -254,7 +254,7 @@ public class JeffApps {
         nameKey: "app.victorylog.name",
         descriptionKey: "app.victorylog.description",
         iconName: "VictoryLogIcon",
-        appStoreId: "6449656780",
+        appStoreId: "6636551443",
         tintColor: Color.yellow
     )
     
@@ -263,7 +263,7 @@ public class JeffApps {
         nameKey: "app.recipes.name",
         descriptionKey: "app.recipes.description",
         iconName: "RecipesIcon",
-        appStoreId: "6449123456",
+        appStoreId: "6746423883",
         tintColor: Color.orange
     )
     
@@ -272,7 +272,7 @@ public class JeffApps {
         nameKey: "app.pizza.name",
         descriptionKey: "app.pizza.description",
         iconName: "PizzaIcon",
-        appStoreId: "6449789012",
+        appStoreId: "6746828561",
         tintColor: Color.red
     )
     
@@ -281,7 +281,7 @@ public class JeffApps {
         nameKey: "app.pomodoroquest.name",
         descriptionKey: "app.pomodoroquest.description",
         iconName: "PomodoroQuestIcon",
-        appStoreId: "6449345678",
+        appStoreId: "1195801405",
         tintColor: Color.purple
     )
     
