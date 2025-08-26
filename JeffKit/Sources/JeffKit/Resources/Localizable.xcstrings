@@ -15,6 +15,24 @@
             "state" : "translated",
             "value" : "Transforma tu mentalidad en solo 3 minutos al día. Temas hermosos, inspiraciones motivadoras, ¡y ve tu felicidad crecer como un árbol!"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Transformez votre état d'esprit en seulement 3 minutes par jour. De beaux thèmes, des invites inspirantes, et regardez votre bonheur grandir comme un arbre !"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verwandeln Sie Ihre Denkweise in nur 3 Minuten pro Tag. Schöne Themen, inspirierende Anregungen und sehen Sie, wie Ihr Glück wie ein Baum wächst!"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trasforma la tua mentalità in soli 3 minuti al giorno. Temi bellissimi, suggerimenti ispiratori e guarda la tua felicità crescere come un albero!"
+          }
         }
       }
     },
@@ -31,6 +49,24 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Diario de Gratitud"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Journal de Gratitude"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dankbarkeitstagebuch"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diario della Gratitudine"
           }
         }
       }
@@ -49,6 +85,24 @@
             "state" : "translated",
             "value" : "Construye hábitos que cambien tu vida con nuestro hermoso y minimalista rastreador. Ve tu progreso, mantente motivado, ¡y conviértete en tu mejor versión!"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Construisez des habitudes qui changent la vie avec notre magnifique tracker minimaliste. Voyez vos progrès, restez motivé et devenez votre meilleure version !"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bauen Sie lebensverändernde Gewohnheiten mit unserem schönen, minimalistischen Tracker auf. Sehen Sie Ihre Fortschritte, bleiben Sie motiviert und werden Sie Ihr bestes Selbst!"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Costruisci abitudini che cambiano la vita con il nostro bellissimo tracker minimalista. Vedi i tuoi progressi, resta motivato e diventa la tua versione migliore!"
+          }
         }
       }
     },
@@ -65,6 +119,24 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rastreador de Hábitos"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suivi d'Habitudes"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gewohnheits-Tracker"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tracker delle Abitudini"
           }
         }
       }
@@ -83,6 +155,24 @@
             "state" : "translated",
             "value" : "Domina cualquier materia con tarjetas inteligentes. Perfecto para estudiantes, profesionales y aprendices de por vida. ¡Estudia de forma más inteligente, no más difícil!"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maîtrisez n'importe quel sujet avec des cartes flash intelligentes. Parfait pour les étudiants, les professionnels et les apprenants à vie. Étudiez plus intelligemment, pas plus dur !"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meistern Sie jedes Thema mit intelligenten Lernkarten. Perfekt für Studenten, Berufstätige und lebenslange Lernende. Lernen Sie klüger, nicht härter!"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Padroneggia qualsiasi materia con flashcard intelligenti. Perfetto per studenti, professionisti e studenti per tutta la vita. Studia in modo più intelligente, non più difficile!"
+          }
         }
       }
     },
@@ -99,6 +189,24 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Maestro de Tarjetas"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maître des Cartes Flash"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lernkarten Meister"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maestro delle Flashcard"
           }
         }
       }
@@ -117,6 +225,24 @@
             "state" : "translated",
             "value" : "Únete a miles de jugadores que siguen sus partidos y mejoran sus habilidades. ¡Encuentra canchas, conéctate con jugadores y mejora tu juego de pickleball!"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rejoignez des milliers de joueurs qui suivent leurs matchs et améliorent leurs compétences. Trouvez des terrains, connectez-vous avec des joueurs et améliorez votre jeu de pickleball !"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schließen Sie sich Tausenden von Spielern an, die ihre Spiele verfolgen und ihre Fähigkeiten verbessern. Finden Sie Plätze, verbinden Sie sich mit Spielern und verbessern Sie Ihr Pickleball-Spiel!"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unisciti a migliaia di giocatori che seguono le loro partite e migliorano le loro abilità. Trova campi, connettiti con i giocatori e migliora il tuo gioco di pickleball!"
+          }
         }
       }
     },
@@ -130,6 +256,24 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PickleballHub"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PickleballHub"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PickleballHub"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "PickleballHub"
@@ -151,6 +295,24 @@
             "state" : "translated",
             "value" : "¡Potencia tu flujo de trabajo con IA! Guarda, organiza y accede rápidamente a tus mejores prompts. La herramienta definitiva para usuarios avanzados de IA."
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Boostez votre flux de travail IA ! Enregistrez, organisez et accédez rapidement à vos meilleurs prompts. L'outil ultime pour les utilisateurs avancés d'IA."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Supercharge Ihren KI-Workflow! Speichern, organisieren und schnell auf Ihre besten Prompts zugreifen. Das ultimative Tool für KI-Power-User."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Potenzia il tuo flusso di lavoro AI! Salva, organizza e accedi rapidamente ai tuoi migliori prompt. Lo strumento definitivo per gli utenti esperti di AI."
+          }
         }
       }
     },
@@ -167,6 +329,24 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gestor de Prompts IA"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gestionnaire de Prompts IA"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prompt Manager KI"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gestore Prompt AI"
           }
         }
       }
@@ -185,6 +365,24 @@
             "state" : "translated",
             "value" : "Registra tus victorias, celebra el progreso y construye un impulso imparable. ¡Transforma pequeñas victorias en éxito duradero!"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suivez vos victoires, célébrez les progrès et construisez un élan imparable. Transformez les petites victoires en succès durable !"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verfolgen Sie Ihre Siege, feiern Sie Fortschritte und bauen Sie unaufhaltsames Momentum auf. Verwandeln Sie kleine Siege in dauerhaften Erfolg!"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Traccia le tue vittorie, celebra i progressi e costruisci uno slancio inarrestabile. Trasforma piccole vittorie in successo duraturo!"
+          }
         }
       }
     },
@@ -201,6 +399,24 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Registro de Victorias"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Journal des Victoires"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siegestagebuch"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registro delle Vittorie"
           }
         }
       }
@@ -219,6 +435,24 @@
             "state" : "translated",
             "value" : "¡Organiza tus aventuras culinarias! Guarda recetas, planifica comidas y crea listas de compras. Tu chef personal para el éxito en la cocina."
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Organisez vos aventures culinaires ! Enregistrez des recettes, planifiez des repas et créez des listes de courses. Votre sous-chef personnel pour réussir en cuisine."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Organisieren Sie Ihre kulinarischen Abenteuer! Speichern Sie Rezepte, planen Sie Mahlzeiten und erstellen Sie Einkaufslisten. Ihr persönlicher Sous-Chef für Küchenerfolg."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Organizza le tue avventure culinarie! Salva ricette, pianifica pasti e crea liste della spesa. Il tuo sous chef personale per il successo in cucina."
+          }
         }
       }
     },
@@ -235,6 +469,24 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sous: Organizador de Recetas"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sous: Organisateur de Recettes"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sous: Rezept-Organizer"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sous: Organizzatore Ricette"
           }
         }
       }
@@ -253,6 +505,24 @@
             "state" : "translated",
             "value" : "¡Perfecciona tu juego de pizza! Registra tus creaciones, calcula proporciones de masa y descubre recetas para cada estilo desde napolitana hasta Detroit."
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perfectionnez votre jeu de pizza ! Journalisez vos créations, calculez les ratios de pâte et découvrez des recettes pour tous les styles, de napolitain à Detroit."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perfektionieren Sie Ihr Pizza-Spiel! Führen Sie Tagebuch über Ihre Kreationen, berechnen Sie Teigverhältnisse und entdecken Sie Rezepte für jeden Stil von neapolitanisch bis Detroit."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perfeziona il tuo gioco della pizza! Registra le tue creazioni, calcola le proporzioni dell'impasto e scopri ricette per ogni stile dalla napoletana alla Detroit."
+          }
         }
       }
     },
@@ -269,6 +539,24 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Za - Diario de Pizza"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Za - Journal Pizza"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Za - Pizza Tagebuch"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Za - Diario della Pizza"
           }
         }
       }
@@ -287,6 +575,24 @@
             "state" : "translated",
             "value" : "¡Sube de nivel tu productividad! Temporizador Pomodoro gamificado con elementos RPG. ¡Gana XP, desbloquea logros y derrota la procrastinación!"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Améliorez votre productivité ! Minuteur Pomodoro gamifié avec des éléments RPG. Gagnez de l'XP, débloquez des succès et vainquez la procrastination !"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Steigern Sie Ihre Produktivität! Gamifizierter Pomodoro-Timer mit RPG-Elementen. Sammeln Sie XP, schalten Sie Erfolge frei und besiegen Sie die Prokrastination!"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aumenta la tua produttività! Timer Pomodoro gamificato con elementi RPG. Guadagna XP, sblocca achievement e sconfiggi la procrastinazione!"
+          }
         }
       }
     },
@@ -300,6 +606,24 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PomodoroQuest"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PomodoroQuest"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PomodoroQuest"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "PomodoroQuest"
@@ -321,6 +645,24 @@
             "state" : "translated",
             "value" : "Alcanza tus metas de salud con ayuno intermitente. Rastrea ventanas de ayuno, monitorea el progreso y construye hábitos alimenticios saludables sin esfuerzo!"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Atteignez vos objectifs de santé avec le jeûne intermittent. Suivez les fenêtres de jeûne, surveillez les progrès et construisez des habitudes alimentaires saines sans effort !"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreichen Sie Ihre Gesundheitsziele mit intermittierendem Fasten. Verfolgen Sie Fastenfenster, überwachen Sie Fortschritte und bauen Sie mühelos gesunde Essgewohnheiten auf!"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Raggiungi i tuoi obiettivi di salute con il digiuno intermittente. Traccia le finestre di digiuno, monitora i progressi e costruisci abitudini alimentari sane senza sforzo!"
+          }
         }
       }
     },
@@ -337,6 +679,24 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ayuno Intermitente"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jeûne Intermittent"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Intermittierendes Fasten"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Digiuno Intermittente"
           }
         }
       }
@@ -355,6 +715,24 @@
             "state" : "translated",
             "value" : "Descubre más aplicaciones diseñadas para ayudarte a vivir mejor"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Découvrez plus d'applications conçues pour vous aider à mieux vivre"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entdecken Sie weitere Apps, die Ihnen helfen, besser zu leben"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scopri altre app progettate per aiutarti a vivere meglio"
+          }
         }
       }
     },
@@ -372,6 +750,24 @@
             "state" : "translated",
             "value" : "Más Aplicaciones"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plus d'Applications"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Weitere Apps"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Altre App"
+          }
         }
       }
     },
@@ -388,6 +784,24 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld otras aplicaciones de este desarrollador"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld autres applications de ce développeur"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld weitere Apps von diesem Entwickler"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld altre app di questo sviluppatore"
           }
         }
       }
