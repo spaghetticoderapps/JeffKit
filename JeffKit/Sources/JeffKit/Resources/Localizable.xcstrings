@@ -307,6 +307,40 @@
         }
       }
     },
+    "app.intermittentfasting.description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reach your health goals with intermittent fasting. Track fasting windows, monitor progress, and build healthy eating habits effortlessly!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alcanza tus metas de salud con ayuno intermitente. Rastrea ventanas de ayuno, monitorea el progreso y construye hábitos alimenticios saludables sin esfuerzo!"
+          }
+        }
+      }
+    },
+    "app.intermittentfasting.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Intermittent Fasting"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ayuno Intermitente"
+          }
+        }
+      }
+    },
     "cross_promotion.discover_apps" : {
       "extractionState" : "manual",
       "localizations" : {

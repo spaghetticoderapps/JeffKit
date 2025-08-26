@@ -285,6 +285,15 @@ public class JeffApps {
         tintColor: Color.purple
     )
     
+    public static let intermittentFasting = AppInfo(
+        id: "intermittent-fasting",
+        nameKey: "app.intermittentfasting.name",
+        descriptionKey: "app.intermittentfasting.description",
+        iconName: "FastingIcon",
+        appStoreId: "6751149779",
+        tintColor: Color.green
+    )
+    
     public static let all: [AppInfo] = [
         pickleballHub,
         gratitudeJournal,
@@ -294,6 +303,7 @@ public class JeffApps {
         victoryLog,
         recipes,
         pizza,
-        pomodoroQuest
+        pomodoroQuest,
+        intermittentFasting
     ]
 }
