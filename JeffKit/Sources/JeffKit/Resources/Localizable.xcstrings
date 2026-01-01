@@ -1,811 +1,1523 @@
 {
-  "sourceLanguage" : "en",
-  "strings" : {
-    "app.gratitude.description" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Transform your mindset in just 3 minutes a day. Beautiful themes, inspiring prompts, and watch your happiness grow like a tree!"
+  "sourceLanguage": "en",
+  "strings": {
+    "app.gratitude.description": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Transform your mindset in just 3 minutes a day. Beautiful themes, inspiring prompts, and watch your happiness grow like a tree!"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Transforma tu mentalidad en solo 3 minutos al día. Temas hermosos, inspiraciones motivadoras, ¡y ve tu felicidad crecer como un árbol!"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Transforma tu mentalidad en solo 3 minutos al día. Temas hermosos, inspiraciones motivadoras, ¡y ve tu felicidad crecer como un árbol!"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Transformez votre état d'esprit en seulement 3 minutes par jour. De beaux thèmes, des invites inspirantes, et regardez votre bonheur grandir comme un arbre !"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Transformez votre état d'esprit en seulement 3 minutes par jour. De beaux thèmes, des invites inspirantes, et regardez votre bonheur grandir comme un arbre !"
           }
         },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Verwandeln Sie Ihre Denkweise in nur 3 Minuten pro Tag. Schöne Themen, inspirierende Anregungen und sehen Sie, wie Ihr Glück wie ein Baum wächst!"
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verwandeln Sie Ihre Denkweise in nur 3 Minuten pro Tag. Schöne Themen, inspirierende Anregungen und sehen Sie, wie Ihr Glück wie ein Baum wächst!"
           }
         },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Trasforma la tua mentalità in soli 3 minuti al giorno. Temi bellissimi, suggerimenti ispiratori e guarda la tua felicità crescere come un albero!"
-          }
-        }
-      }
-    },
-    "app.gratitude.name" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gratitude Journal"
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trasforma la tua mentalità in soli 3 minuti al giorno. Temi bellissimi, suggerimenti ispiratori e guarda la tua felicità crescere come un albero!"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Diario de Gratitud"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Journal de Gratitude"
-          }
-        },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dankbarkeitstagebuch"
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Diario della Gratitudine"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1日わずか3分で心構えを変革。美しいテーマ、感動的なプロンプトで、幸せが木のように成長するのを見てください！"
           }
         }
       }
     },
-    "app.habittracker.description" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Build life-changing habits with our beautiful, minimalist tracker. See your progress, stay motivated, and become your best self!"
+    "app.gratitude.name": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gratitude Journal"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Construye hábitos que cambien tu vida con nuestro hermoso y minimalista rastreador. Ve tu progreso, mantente motivado, ¡y conviértete en tu mejor versión!"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diario de Gratitud"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Construisez des habitudes qui changent la vie avec notre magnifique tracker minimaliste. Voyez vos progrès, restez motivé et devenez votre meilleure version !"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Journal de Gratitude"
           }
         },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bauen Sie lebensverändernde Gewohnheiten mit unserem schönen, minimalistischen Tracker auf. Sehen Sie Ihre Fortschritte, bleiben Sie motiviert und werden Sie Ihr bestes Selbst!"
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dankbarkeitstagebuch"
           }
         },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Costruisci abitudini che cambiano la vita con il nostro bellissimo tracker minimalista. Vedi i tuoi progressi, resta motivato e diventa la tua versione migliore!"
-          }
-        }
-      }
-    },
-    "app.habittracker.name" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "One Habit Tracker"
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diario della Gratitudine"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rastreador de Hábitos"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Suivi d'Habitudes"
-          }
-        },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gewohnheits-Tracker"
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tracker delle Abitudini"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "感謝の日記"
           }
         }
       }
     },
-    "app.flashcards.description" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Master any subject with smart flashcards. Perfect for students, professionals, and lifelong learners. Study smarter, not harder!"
+    "app.habittracker.description": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Build life-changing habits with our beautiful, minimalist tracker. See your progress, stay motivated, and become your best self!"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Domina cualquier materia con tarjetas inteligentes. Perfecto para estudiantes, profesionales y aprendices de por vida. ¡Estudia de forma más inteligente, no más difícil!"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Construye hábitos que cambien tu vida con nuestro hermoso y minimalista rastreador. Ve tu progreso, mantente motivado, ¡y conviértete en tu mejor versión!"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Maîtrisez n'importe quel sujet avec des cartes flash intelligentes. Parfait pour les étudiants, les professionnels et les apprenants à vie. Étudiez plus intelligemment, pas plus dur !"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Construisez des habitudes qui changent la vie avec notre magnifique tracker minimaliste. Voyez vos progrès, restez motivé et devenez votre meilleure version !"
           }
         },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Meistern Sie jedes Thema mit intelligenten Lernkarten. Perfekt für Studenten, Berufstätige und lebenslange Lernende. Lernen Sie klüger, nicht härter!"
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bauen Sie lebensverändernde Gewohnheiten mit unserem schönen, minimalistischen Tracker auf. Sehen Sie Ihre Fortschritte, bleiben Sie motiviert und werden Sie Ihr bestes Selbst!"
           }
         },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Padroneggia qualsiasi materia con flashcard intelligenti. Perfetto per studenti, professionisti e studenti per tutta la vita. Studia in modo più intelligente, non più difficile!"
-          }
-        }
-      }
-    },
-    "app.flashcards.name" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Flash Cards Master"
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Costruisci abitudini che cambiano la vita con il nostro bellissimo tracker minimalista. Vedi i tuoi progressi, resta motivato e diventa la tua versione migliore!"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Maestro de Tarjetas"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Maître des Cartes Flash"
-          }
-        },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lernkarten Meister"
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Maestro delle Flashcard"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "美しくミニマルなトラッカーで人生を変える習慣を築きましょう。進捗を見て、モチベーションを保ち、最高の自分になりましょう！"
           }
         }
       }
     },
-    "app.pickleball.description" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Join thousands of players tracking their games and improving their skills. Find courts, connect with players, and level up your pickleball game!"
+    "app.habittracker.name": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "One Habit Tracker"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Únete a miles de jugadores que siguen sus partidos y mejoran sus habilidades. ¡Encuentra canchas, conéctate con jugadores y mejora tu juego de pickleball!"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rastreador de Hábitos"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rejoignez des milliers de joueurs qui suivent leurs matchs et améliorent leurs compétences. Trouvez des terrains, connectez-vous avec des joueurs et améliorez votre jeu de pickleball !"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Suivi d'Habitudes"
           }
         },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Schließen Sie sich Tausenden von Spielern an, die ihre Spiele verfolgen und ihre Fähigkeiten verbessern. Finden Sie Plätze, verbinden Sie sich mit Spielern und verbessern Sie Ihr Pickleball-Spiel!"
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gewohnheits-Tracker"
           }
         },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Unisciti a migliaia di giocatori che seguono le loro partite e migliorano le loro abilità. Trova campi, connettiti con i giocatori e migliora il tuo gioco di pickleball!"
-          }
-        }
-      }
-    },
-    "app.pickleball.name" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "PickleballHub"
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tracker delle Abitudini"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "PickleballHub"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "PickleballHub"
-          }
-        },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "PickleballHub"
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "PickleballHub"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "習慣トラッカー"
           }
         }
       }
     },
-    "app.promptmanager.description" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Supercharge your AI workflow! Save, organize, and quickly access your best prompts. The ultimate tool for AI power users."
+    "app.flashcards.description": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Master any subject with smart flashcards. Perfect for students, professionals, and lifelong learners. Study smarter, not harder!"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "¡Potencia tu flujo de trabajo con IA! Guarda, organiza y accede rápidamente a tus mejores prompts. La herramienta definitiva para usuarios avanzados de IA."
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Domina cualquier materia con tarjetas inteligentes. Perfecto para estudiantes, profesionales y aprendices de por vida. ¡Estudia de forma más inteligente, no más difícil!"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Boostez votre flux de travail IA ! Enregistrez, organisez et accédez rapidement à vos meilleurs prompts. L'outil ultime pour les utilisateurs avancés d'IA."
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Maîtrisez n'importe quel sujet avec des cartes flash intelligentes. Parfait pour les étudiants, les professionnels et les apprenants à vie. Étudiez plus intelligemment, pas plus dur !"
           }
         },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Supercharge Ihren KI-Workflow! Speichern, organisieren und schnell auf Ihre besten Prompts zugreifen. Das ultimative Tool für KI-Power-User."
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Meistern Sie jedes Thema mit intelligenten Lernkarten. Perfekt für Studenten, Berufstätige und lebenslange Lernende. Lernen Sie klüger, nicht härter!"
           }
         },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Potenzia il tuo flusso di lavoro AI! Salva, organizza e accedi rapidamente ai tuoi migliori prompt. Lo strumento definitivo per gli utenti esperti di AI."
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Padroneggia qualsiasi materia con flashcard intelligenti. Perfetto per studenti, professionisti e studenti per tutta la vita. Studia in modo più intelligente, non più difficile!"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "スマートなフラッシュカードでどんな科目もマスターしましょう。学生、プロフェッショナル、生涯学習者に最適。より賢く学習を、より困難ではなく！"
           }
         }
       }
     },
-    "app.promptmanager.name" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Prompt Manager AI"
+    "app.flashcards.name": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Flash Cards Master"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gestor de Prompts IA"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Maestro de Tarjetas"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gestionnaire de Prompts IA"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Maître des Cartes Flash"
           }
         },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Prompt Manager KI"
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lernkarten Meister"
           }
         },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gestore Prompt AI"
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Maestro delle Flashcard"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "フラッシュカードマスター"
           }
         }
       }
     },
-    "app.victorylog.description" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Track your wins, celebrate progress, and build unstoppable momentum. Transform small victories into lasting success!"
+    "app.pickleball.description": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Join thousands of players tracking their games and improving their skills. Find courts, connect with players, and level up your pickleball game!"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Registra tus victorias, celebra el progreso y construye un impulso imparable. ¡Transforma pequeñas victorias en éxito duradero!"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Únete a miles de jugadores que siguen sus partidos y mejoran sus habilidades. ¡Encuentra canchas, conéctate con jugadores y mejora tu juego de pickleball!"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Suivez vos victoires, célébrez les progrès et construisez un élan imparable. Transformez les petites victoires en succès durable !"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rejoignez des milliers de joueurs qui suivent leurs matchs et améliorent leurs compétences. Trouvez des terrains, connectez-vous avec des joueurs et améliorez votre jeu de pickleball !"
           }
         },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Verfolgen Sie Ihre Siege, feiern Sie Fortschritte und bauen Sie unaufhaltsames Momentum auf. Verwandeln Sie kleine Siege in dauerhaften Erfolg!"
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Schließen Sie sich Tausenden von Spielern an, die ihre Spiele verfolgen und ihre Fähigkeiten verbessern. Finden Sie Plätze, verbinden Sie sich mit Spielern und verbessern Sie Ihr Pickleball-Spiel!"
           }
         },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Traccia le tue vittorie, celebra i progressi e costruisci uno slancio inarrestabile. Trasforma piccole vittorie in successo duraturo!"
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Unisciti a migliaia di giocatori che seguono le loro partite e migliorano le loro abilità. Trova campi, connettiti con i giocatori e migliora il tuo gioco di pickleball!"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "何千人ものプレーヤーとともにゲームを追跡し、スキルを向上させましょう。コートを見つけ、プレーヤーとつながり、ピックルボールゲームをレベルアップ！"
           }
         }
       }
     },
-    "app.victorylog.name" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Victory Log"
+    "app.pickleball.name": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PickleballHub"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Registro de Victorias"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PickleballHub"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Journal des Victoires"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PickleballHub"
           }
         },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Siegestagebuch"
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PickleballHub"
           }
         },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Registro delle Vittorie"
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PickleballHub"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PickleballHub"
           }
         }
       }
     },
-    "app.recipes.description" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Organize your culinary adventures! Save recipes, plan meals, and create shopping lists. Your personal sous chef for kitchen success."
+    "app.promptmanager.description": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Supercharge your AI workflow! Save, organize, and quickly access your best prompts. The ultimate tool for AI power users."
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "¡Organiza tus aventuras culinarias! Guarda recetas, planifica comidas y crea listas de compras. Tu chef personal para el éxito en la cocina."
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "¡Potencia tu flujo de trabajo con IA! Guarda, organiza y accede rápidamente a tus mejores prompts. La herramienta definitiva para usuarios avanzados de IA."
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Organisez vos aventures culinaires ! Enregistrez des recettes, planifiez des repas et créez des listes de courses. Votre sous-chef personnel pour réussir en cuisine."
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Boostez votre flux de travail IA ! Enregistrez, organisez et accédez rapidement à vos meilleurs prompts. L'outil ultime pour les utilisateurs avancés d'IA."
           }
         },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Organisieren Sie Ihre kulinarischen Abenteuer! Speichern Sie Rezepte, planen Sie Mahlzeiten und erstellen Sie Einkaufslisten. Ihr persönlicher Sous-Chef für Küchenerfolg."
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Supercharge Ihren KI-Workflow! Speichern, organisieren und schnell auf Ihre besten Prompts zugreifen. Das ultimative Tool für KI-Power-User."
           }
         },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Organizza le tue avventure culinarie! Salva ricette, pianifica pasti e crea liste della spesa. Il tuo sous chef personale per il successo in cucina."
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Potenzia il tuo flusso di lavoro AI! Salva, organizza e accedi rapidamente ai tuoi migliori prompt. Lo strumento definitivo per gli utenti esperti di AI."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "AIワークフローをパワーアップ！最高のプロンプトを保存、整理、素早くアクセス。AIパワーユーザーのための究極のツール。"
           }
         }
       }
     },
-    "app.recipes.name" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sous: Recipe Organizer"
+    "app.promptmanager.name": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prompt Manager AI"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sous: Organizador de Recetas"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gestor de Prompts IA"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sous: Organisateur de Recettes"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gestionnaire de Prompts IA"
           }
         },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sous: Rezept-Organizer"
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prompt Manager KI"
           }
         },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sous: Organizzatore Ricette"
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gestore Prompt AI"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "プロンプトマネージャーAI"
           }
         }
       }
     },
-    "app.pizza.description" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Perfect your pizza game! Journal your creations, calculate dough ratios, and discover recipes for every style from Neapolitan to Detroit."
+    "app.victorylog.description": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Track your wins, celebrate progress, and build unstoppable momentum. Transform small victories into lasting success!"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "¡Perfecciona tu juego de pizza! Registra tus creaciones, calcula proporciones de masa y descubre recetas para cada estilo desde napolitana hasta Detroit."
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Registra tus victorias, celebra el progreso y construye un impulso imparable. ¡Transforma pequeñas victorias en éxito duradero!"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Perfectionnez votre jeu de pizza ! Journalisez vos créations, calculez les ratios de pâte et découvrez des recettes pour tous les styles, de napolitain à Detroit."
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Suivez vos victoires, célébrez les progrès et construisez un élan imparable. Transformez les petites victoires en succès durable !"
           }
         },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Perfektionieren Sie Ihr Pizza-Spiel! Führen Sie Tagebuch über Ihre Kreationen, berechnen Sie Teigverhältnisse und entdecken Sie Rezepte für jeden Stil von neapolitanisch bis Detroit."
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verfolgen Sie Ihre Siege, feiern Sie Fortschritte und bauen Sie unaufhaltsames Momentum auf. Verwandeln Sie kleine Siege in dauerhaften Erfolg!"
           }
         },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Perfeziona il tuo gioco della pizza! Registra le tue creazioni, calcola le proporzioni dell'impasto e scopri ricette per ogni stile dalla napoletana alla Detroit."
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Traccia le tue vittorie, celebra i progressi e costruisci uno slancio inarrestabile. Trasforma piccole vittorie in successo duraturo!"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "勝利を追跡し、進歩を祝い、止められない勢いを築きましょう。小さな勝利を持続的な成功に変えましょう！"
           }
         }
       }
     },
-    "app.pizza.name" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Za - Pizza Journal"
+    "app.victorylog.name": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Victory Log"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Za - Diario de Pizza"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Registro de Victorias"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Za - Journal Pizza"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Journal des Victoires"
           }
         },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Za - Pizza Tagebuch"
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Siegestagebuch"
           }
         },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Za - Diario della Pizza"
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Registro delle Vittorie"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "勝利ログ"
           }
         }
       }
     },
-    "app.pomodoroquest.description" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Level up your productivity! Gamified Pomodoro timer with RPG elements. Earn XP, unlock achievements, and defeat procrastination!"
+    "app.recipes.description": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Organize your culinary adventures! Save recipes, plan meals, and create shopping lists. Your personal sous chef for kitchen success."
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "¡Sube de nivel tu productividad! Temporizador Pomodoro gamificado con elementos RPG. ¡Gana XP, desbloquea logros y derrota la procrastinación!"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "¡Organiza tus aventuras culinarias! Guarda recetas, planifica comidas y crea listas de compras. Tu chef personal para el éxito en la cocina."
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Améliorez votre productivité ! Minuteur Pomodoro gamifié avec des éléments RPG. Gagnez de l'XP, débloquez des succès et vainquez la procrastination !"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Organisez vos aventures culinaires ! Enregistrez des recettes, planifiez des repas et créez des listes de courses. Votre sous-chef personnel pour réussir en cuisine."
           }
         },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Steigern Sie Ihre Produktivität! Gamifizierter Pomodoro-Timer mit RPG-Elementen. Sammeln Sie XP, schalten Sie Erfolge frei und besiegen Sie die Prokrastination!"
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Organisieren Sie Ihre kulinarischen Abenteuer! Speichern Sie Rezepte, planen Sie Mahlzeiten und erstellen Sie Einkaufslisten. Ihr persönlicher Sous-Chef für Küchenerfolg."
           }
         },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aumenta la tua produttività! Timer Pomodoro gamificato con elementi RPG. Guadagna XP, sblocca achievement e sconfiggi la procrastinazione!"
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Organizza le tue avventure culinarie! Salva ricette, pianifica pasti e crea liste della spesa. Il tuo sous chef personale per il successo in cucina."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "料理の冒険を整理しましょう！レシピを保存し、食事を計画し、買い物リストを作成。キッチンでの成功のための個人的なスーシェフ。"
           }
         }
       }
     },
-    "app.pomodoroquest.name" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "PomodoroQuest"
+    "app.recipes.name": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sous: Recipe Organizer"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "PomodoroQuest"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sous: Organizador de Recetas"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "PomodoroQuest"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sous: Organisateur de Recettes"
           }
         },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "PomodoroQuest"
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sous: Rezept-Organizer"
           }
         },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "PomodoroQuest"
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sous: Organizzatore Ricette"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sous: レシピオーガナイザー"
           }
         }
       }
     },
-    "app.intermittentfasting.description" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Reach your health goals with intermittent fasting. Track fasting windows, monitor progress, and build healthy eating habits effortlessly!"
+    "app.pizza.description": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Perfect your pizza game! Journal your creations, calculate dough ratios, and discover recipes for every style from Neapolitan to Detroit."
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Alcanza tus metas de salud con ayuno intermitente. Rastrea ventanas de ayuno, monitorea el progreso y construye hábitos alimenticios saludables sin esfuerzo!"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "¡Perfecciona tu juego de pizza! Registra tus creaciones, calcula proporciones de masa y descubre recetas para cada estilo desde napolitana hasta Detroit."
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Atteignez vos objectifs de santé avec le jeûne intermittent. Suivez les fenêtres de jeûne, surveillez les progrès et construisez des habitudes alimentaires saines sans effort !"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Perfectionnez votre jeu de pizza ! Journalisez vos créations, calculez les ratios de pâte et découvrez des recettes pour tous les styles, de napolitain à Detroit."
           }
         },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Erreichen Sie Ihre Gesundheitsziele mit intermittierendem Fasten. Verfolgen Sie Fastenfenster, überwachen Sie Fortschritte und bauen Sie mühelos gesunde Essgewohnheiten auf!"
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Perfektionieren Sie Ihr Pizza-Spiel! Führen Sie Tagebuch über Ihre Kreationen, berechnen Sie Teigverhältnisse und entdecken Sie Rezepte für jeden Stil von neapolitanisch bis Detroit."
           }
         },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Raggiungi i tuoi obiettivi di salute con il digiuno intermittente. Traccia le finestre di digiuno, monitora i progressi e costruisci abitudini alimentari sane senza sforzo!"
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Perfeziona il tuo gioco della pizza! Registra le tue creazioni, calcola le proporzioni dell'impasto e scopri ricette per ogni stile dalla napoletana alla Detroit."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ピザゲームを完璧に！創作を記録し、生地の比率を計算し、ナポリタンからデトロイトまであらゆるスタイルのレシピを発見。"
           }
         }
       }
     },
-    "app.intermittentfasting.name" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Intermittent Fasting"
+    "app.pizza.name": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Za - Pizza Journal"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ayuno Intermitente"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Za - Diario de Pizza"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Jeûne Intermittent"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Za - Journal Pizza"
           }
         },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Intermittierendes Fasten"
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Za - Pizza Tagebuch"
           }
         },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Digiuno Intermittente"
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Za - Diario della Pizza"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Za - ピザジャーナル"
           }
         }
       }
     },
-    "cross_promotion.discover_apps" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Discover more apps designed to help you live better"
+    "app.pomodoroquest.description": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Level up your productivity! Gamified Pomodoro timer with RPG elements. Earn XP, unlock achievements, and defeat procrastination!"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Descubre más aplicaciones diseñadas para ayudarte a vivir mejor"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "¡Sube de nivel tu productividad! Temporizador Pomodoro gamificado con elementos RPG. ¡Gana XP, desbloquea logros y derrota la procrastinación!"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Découvrez plus d'applications conçues pour vous aider à mieux vivre"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Améliorez votre productivité ! Minuteur Pomodoro gamifié avec des éléments RPG. Gagnez de l'XP, débloquez des succès et vainquez la procrastination !"
           }
         },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Entdecken Sie weitere Apps, die Ihnen helfen, besser zu leben"
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Steigern Sie Ihre Produktivität! Gamifizierter Pomodoro-Timer mit RPG-Elementen. Sammeln Sie XP, schalten Sie Erfolge frei und besiegen Sie die Prokrastination!"
           }
         },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Scopri altre app progettate per aiutarti a vivere meglio"
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aumenta la tua produttività! Timer Pomodoro gamificato con elementi RPG. Guadagna XP, sblocca achievement e sconfiggi la procrastinazione!"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "生産性をレベルアップ！RPG要素を持つゲーム化されたポモドーロタイマー。XPを獲得し、実績をアンロックし、先延ばしを撃破！"
           }
         }
       }
     },
-    "cross_promotion.more_apps" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "More Apps"
+    "app.pomodoroquest.name": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PomodoroQuest"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Más Aplicaciones"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PomodoroQuest"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Plus d'Applications"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PomodoroQuest"
           }
         },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Weitere Apps"
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PomodoroQuest"
           }
         },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Altre App"
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PomodoroQuest"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PomodoroQuest"
           }
         }
       }
     },
-    "cross_promotion.other_apps_count" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%lld other apps by this developer"
+    "app.intermittentfasting.description": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reach your health goals with intermittent fasting. Track fasting windows, monitor progress, and build healthy eating habits effortlessly!"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%lld otras aplicaciones de este desarrollador"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Alcanza tus metas de salud con ayuno intermitente. Rastrea ventanas de ayuno, monitorea el progreso y construye hábitos alimenticios saludables sin esfuerzo!"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%lld autres applications de ce développeur"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Atteignez vos objectifs de santé avec le jeûne intermittent. Suivez les fenêtres de jeûne, surveillez les progrès et construisez des habitudes alimentaires saines sans effort !"
           }
         },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%lld weitere Apps von diesem Entwickler"
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Erreichen Sie Ihre Gesundheitsziele mit intermittierendem Fasten. Verfolgen Sie Fastenfenster, überwachen Sie Fortschritte und bauen Sie mühelos gesunde Essgewohnheiten auf!"
           }
         },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%lld altre app di questo sviluppatore"
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Raggiungi i tuoi obiettivi di salute con il digiuno intermittente. Traccia le finestre di digiuno, monitora i progressi e costruisci abitudini alimentari sane senza sforzo!"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "間欠断食で健康目標を達成しましょう。断食ウィンドウを追跡し、進捗を監視し、健康的な食習慣を楽に築きましょう！"
+          }
+        }
+      }
+    },
+    "app.intermittentfasting.name": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Intermittent Fasting"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ayuno Intermitente"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jeûne Intermittent"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Intermittierendes Fasten"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Digiuno Intermittente"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "間欠断食"
+          }
+        }
+      }
+    },
+    "app.birthdaycountdown.description": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Never miss another birthday! Track all your loved ones' special days with beautiful countdowns, smart reminders, and thoughtful celebration features."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "¡Nunca pierdas otro cumpleaños! Rastrea los días especiales de tus seres queridos con hermosas cuentas regresivas, recordatorios inteligentes y funciones de celebración consideradas."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ne manquez plus jamais un anniversaire ! Suivez les jours spéciaux de vos proches avec de beaux comptes à rebours, des rappels intelligents et des fonctionnalités de célébration attentionnées."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verpassen Sie nie wieder einen Geburtstag! Verfolgen Sie die besonderen Tage Ihrer Lieben mit schönen Countdowns, intelligenten Erinnerungen und durchdachten Feier-Features."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Non perdere mai più un compleanno! Tieni traccia dei giorni speciali dei tuoi cari con bellissimi conti alla rovescia, promemoria intelligenti e funzioni di celebrazione premurosi."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "もう誕生日を忘れません！美しいカウントダウン、スマートリマインダー、思いやりのあるお祝い機能で愛する人の特別な日を追跡しましょう。"
+          }
+        }
+      }
+    },
+    "app.birthdaycountdown.name": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Birthday Countdown"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cuenta Regresiva de Cumpleaños"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Compte à Rebours d'Anniversaire"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Geburtstags-Countdown"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Conto alla Rovescia Compleanno"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "誕生日カウントダウン"
+          }
+        }
+      }
+    },
+    "app.hydrohero.description": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stay hydrated effortlessly! Track water intake with motion detection, shake to log, earn XP, unlock rewards, and build lasting hydration habits."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "¡Mantente hidratado sin esfuerzo! Rastrea la ingesta de agua con detección de movimiento, agita para registrar, gana XP, desbloquea recompensas y construye hábitos de hidratación duraderos."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Restez hydraté sans effort ! Suivez votre consommation d'eau avec détection de mouvement, secouez pour enregistrer, gagnez de l'XP, débloquez des récompenses et construisez des habitudes d'hydratation durables."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bleiben Sie mühelos hydratisiert! Verfolgen Sie die Wasseraufnahme mit Bewegungserkennung, schütteln zum Protokollieren, sammeln Sie XP, schalten Sie Belohnungen frei und bauen Sie dauerhafte Hydratationsgewohnheiten auf."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rimani idratato senza sforzo! Traccia l'assunzione d'acqua con rilevamento del movimento, agita per registrare, guadagna XP, sblocca ricompense e costruisci abitudini di idratazione durature."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "楽に水分補給を続けましょう！モーション検出で水分摂取を追跡、振って記録、XPを獲得、報酬をアンロックし、持続的な水分補給習慣を築きましょう。"
+          }
+        }
+      }
+    },
+    "app.hydrohero.name": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HydroHero"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HydroHero"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HydroHero"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HydroHero"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HydroHero"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HydroHero"
+          }
+        }
+      }
+    },
+    "cross_promotion.discover_apps": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Discover more apps designed to help you live better"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Descubre más aplicaciones diseñadas para ayudarte a vivir mejor"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Découvrez plus d'applications conçues pour vous aider à mieux vivre"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Entdecken Sie weitere Apps, die Ihnen helfen, besser zu leben"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scopri altre app progettate per aiutarti a vivere meglio"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "より良く生きるために設計されたその他のアプリを発見"
+          }
+        }
+      }
+    },
+    "cross_promotion.more_apps": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "More Apps"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Más Aplicaciones"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Plus d'Applications"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Weitere Apps"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Altre App"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "その他のアプリ"
+          }
+        }
+      }
+    },
+    "cross_promotion.other_apps_count": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld other apps by this developer"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld otras aplicaciones de este desarrollador"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld autres applications de ce développeur"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld weitere Apps von diesem Entwickler"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld altre app di questo sviluppatore"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "この開発者による他の%lldのアプリ"
+          }
+        }
+      }
+    },
+    "Thank you!": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Thank you!"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "¡Gracias!"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Merci !"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vielen Dank!"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grazie!"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ありがとうございます！"
+          }
+        }
+      }
+    },
+    "Your feedback has been sent.": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your feedback has been sent."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tu comentario ha sido enviado."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Votre commentaire a été envoyé."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ihr Feedback wurde gesendet."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Il tuo feedback è stato inviato."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "フィードバックが送信されました。"
+          }
+        }
+      }
+    },
+    "Done": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Done"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hecho"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Terminé"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fertig"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fatto"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "完了"
+          }
+        }
+      }
+    },
+    "Send Feedback": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Send Feedback"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enviar Comentario"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Envoyer un Commentaire"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Feedback Senden"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Invia Feedback"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "フィードバックを送信"
+          }
+        }
+      }
+    },
+    "Email (optional)": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Email (optional)"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Correo (opcional)"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Email (facultatif)"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "E-Mail (optional)"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Email (opzionale)"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "メール（任意）"
+          }
+        }
+      }
+    },
+    "your@email.com": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "your@email.com"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "tu@correo.com"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "votre@email.com"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ihre@email.de"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "tua@email.com"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "your@email.com"
+          }
+        }
+      }
+    },
+    "Include your email if you'd like a response": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Include your email if you'd like a response"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Incluye tu correo si deseas una respuesta"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Incluez votre email si vous souhaitez une réponse"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Geben Sie Ihre E-Mail an, wenn Sie eine Antwort wünschen"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Includi la tua email se desideri una risposta"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "返信をご希望の場合はメールアドレスを入力してください"
+          }
+        }
+      }
+    },
+    "Cancel": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cancel"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cancelar"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Annuler"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abbrechen"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Annulla"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "キャンセル"
+          }
+        }
+      }
+    },
+    "Send": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Send"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enviar"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Envoyer"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Senden"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Invia"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "送信"
+          }
+        }
+      }
+    },
+    "Feedback": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Feedback"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Comentarios"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Commentaires"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Feedback"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Feedback"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "フィードバック"
           }
         }
       }
     }
   },
-  "version" : "1.0"
+  "version": "1.0"
 }

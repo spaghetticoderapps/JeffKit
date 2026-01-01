@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>app.birthdaycountdown.description</key>
+	<string>Never miss another birthday! Track all your loved ones' special days with beautiful countdowns, smart reminders, and thoughtful celebration features.</string>
+	<key>app.birthdaycountdown.name</key>
+	<string>Birthday Countdown</string>
+	<key>app.flashcards.description</key>
+	<string>Master any subject with smart flashcards. Perfect for students, professionals, and lifelong learners. Study smarter, not harder!</string>
+	<key>app.flashcards.name</key>
+	<string>Flash Cards Master</string>
+	<key>app.gratitude.description</key>
+	<string>Transform your mindset in just 3 minutes a day. Beautiful themes, inspiring prompts, and watch your happiness grow like a tree!</string>
+	<key>app.gratitude.name</key>
+	<string>Gratitude Journal</string>
+	<key>app.habittracker.description</key>
+	<string>Build life-changing habits with our beautiful, minimalist tracker. See your progress, stay motivated, and become your best self!</string>
+	<key>app.habittracker.name</key>
+	<string>One Habit Tracker</string>
+	<key>app.intermittentfasting.description</key>
+	<string>Reach your health goals with intermittent fasting. Track fasting windows, monitor progress, and build healthy eating habits effortlessly!</string>
+	<key>app.intermittentfasting.name</key>
+	<string>Intermittent Fasting</string>
+	<key>app.pickleball.description</key>
+	<string>Join thousands of players tracking their games and improving their skills. Find courts, connect with players, and level up your pickleball game!</string>
+	<key>app.pickleball.name</key>
+	<string>PickleballHub</string>
+	<key>app.pizza.description</key>
+	<string>Perfect your pizza game! Journal your creations, calculate dough ratios, and discover recipes for every style from Neapolitan to Detroit.</string>
+	<key>app.pizza.name</key>
+	<string>Za - Pizza Journal</string>
+	<key>app.pomodoroquest.description</key>
+	<string>Level up your productivity! Gamified Pomodoro timer with RPG elements. Earn XP, unlock achievements, and defeat procrastination!</string>
+	<key>app.pomodoroquest.name</key>
+	<string>PomodoroQuest</string>
+	<key>app.promptmanager.description</key>
+	<string>Supercharge your AI workflow! Save, organize, and quickly access your best prompts. The ultimate tool for AI power users.</string>
+	<key>app.promptmanager.name</key>
+	<string>Prompt Manager AI</string>
+	<key>app.recipes.description</key>
+	<string>Organize your culinary adventures! Save recipes, plan meals, and create shopping lists. Your personal sous chef for kitchen success.</string>
+	<key>app.recipes.name</key>
+	<string>Sous: Recipe Organizer</string>
+	<key>app.victorylog.description</key>
+	<string>Track your wins, celebrate progress, and build unstoppable momentum. Transform small victories into lasting success!</string>
+	<key>app.victorylog.name</key>
+	<string>Victory Log</string>
+	<key>cross_promotion.discover_apps</key>
+	<string>Discover more apps designed to help you live better</string>
+	<key>cross_promotion.more_apps</key>
+	<string>More Apps</string>
+	<key>cross_promotion.other_apps_count</key>
+	<string>%lld other apps by this developer</string>
+</dict>
+</plist>

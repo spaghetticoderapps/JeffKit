@@ -1,0 +1,108 @@
+{
+  "" : {
+    "diagnostics" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/JeffKit-master.dia",
+    "emit-module-dependencies" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/JeffKit-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/JeffKit-master-emit-module.dia",
+    "swift-dependencies" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/JeffKit-master.swiftdeps"
+  },
+  "/Users/jeffcedilla/iOS/JeffKit/JeffKit/Sources/JeffKit/CrossPromotion.swift" : {
+    "const-values" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/CrossPromotion.swiftconstvalues",
+    "dependencies" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/CrossPromotion.d",
+    "diagnostics" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/CrossPromotion.dia",
+    "index-unit-output-path" : "/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/CrossPromotion.o",
+    "llvm-bc" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/CrossPromotion.bc",
+    "object" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/CrossPromotion.o",
+    "swift-dependencies" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/CrossPromotion.swiftdeps",
+    "swiftmodule" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/CrossPromotion~partial.swiftmodule"
+  },
+  "/Users/jeffcedilla/iOS/JeffKit/JeffKit/Sources/JeffKit/Eventer.swift" : {
+    "const-values" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/Eventer.swiftconstvalues",
+    "dependencies" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/Eventer.d",
+    "diagnostics" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/Eventer.dia",
+    "index-unit-output-path" : "/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/Eventer.o",
+    "llvm-bc" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/Eventer.bc",
+    "object" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/Eventer.o",
+    "swift-dependencies" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/Eventer.swiftdeps",
+    "swiftmodule" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/Eventer~partial.swiftmodule"
+  },
+  "/Users/jeffcedilla/iOS/JeffKit/JeffKit/Sources/JeffKit/FeatureFlagManager.swift" : {
+    "const-values" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/FeatureFlagManager.swiftconstvalues",
+    "dependencies" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/FeatureFlagManager.d",
+    "diagnostics" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/FeatureFlagManager.dia",
+    "index-unit-output-path" : "/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/FeatureFlagManager.o",
+    "llvm-bc" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/FeatureFlagManager.bc",
+    "object" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/FeatureFlagManager.o",
+    "swift-dependencies" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/FeatureFlagManager.swiftdeps",
+    "swiftmodule" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/FeatureFlagManager~partial.swiftmodule"
+  },
+  "/Users/jeffcedilla/iOS/JeffKit/JeffKit/Sources/JeffKit/Haptics.swift" : {
+    "const-values" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/Haptics.swiftconstvalues",
+    "dependencies" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/Haptics.d",
+    "diagnostics" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/Haptics.dia",
+    "index-unit-output-path" : "/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/Haptics.o",
+    "llvm-bc" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/Haptics.bc",
+    "object" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/Haptics.o",
+    "swift-dependencies" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/Haptics.swiftdeps",
+    "swiftmodule" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/Haptics~partial.swiftmodule"
+  },
+  "/Users/jeffcedilla/iOS/JeffKit/JeffKit/Sources/JeffKit/IconTest.swift" : {
+    "const-values" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/IconTest.swiftconstvalues",
+    "dependencies" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/IconTest.d",
+    "diagnostics" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/IconTest.dia",
+    "index-unit-output-path" : "/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/IconTest.o",
+    "llvm-bc" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/IconTest.bc",
+    "object" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/IconTest.o",
+    "swift-dependencies" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/IconTest.swiftdeps",
+    "swiftmodule" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/IconTest~partial.swiftmodule"
+  },
+  "/Users/jeffcedilla/iOS/JeffKit/JeffKit/Sources/JeffKit/JeffKit.swift" : {
+    "const-values" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/JeffKit-9133948c78dcf7cabd6f6ac5173e5ce7.swiftconstvalues",
+    "dependencies" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/JeffKit-9133948c78dcf7cabd6f6ac5173e5ce7.d",
+    "diagnostics" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/JeffKit-9133948c78dcf7cabd6f6ac5173e5ce7.dia",
+    "index-unit-output-path" : "/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/JeffKit-9133948c78dcf7cabd6f6ac5173e5ce7.o",
+    "llvm-bc" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/JeffKit-9133948c78dcf7cabd6f6ac5173e5ce7.bc",
+    "object" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/JeffKit-9133948c78dcf7cabd6f6ac5173e5ce7.o",
+    "swift-dependencies" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/JeffKit-9133948c78dcf7cabd6f6ac5173e5ce7.swiftdeps",
+    "swiftmodule" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/JeffKit-9133948c78dcf7cabd6f6ac5173e5ce7~partial.swiftmodule"
+  },
+  "/Users/jeffcedilla/iOS/JeffKit/JeffKit/Sources/JeffKit/LottieView.swift" : {
+    "const-values" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/LottieView.swiftconstvalues",
+    "dependencies" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/LottieView.d",
+    "diagnostics" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/LottieView.dia",
+    "index-unit-output-path" : "/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/LottieView.o",
+    "llvm-bc" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/LottieView.bc",
+    "object" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/LottieView.o",
+    "swift-dependencies" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/LottieView.swiftdeps",
+    "swiftmodule" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/LottieView~partial.swiftmodule"
+  },
+  "/Users/jeffcedilla/iOS/JeffKit/JeffKit/Sources/JeffKit/WishKitView.swift" : {
+    "const-values" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/WishKitView.swiftconstvalues",
+    "dependencies" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/WishKitView.d",
+    "diagnostics" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/WishKitView.dia",
+    "index-unit-output-path" : "/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/WishKitView.o",
+    "llvm-bc" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/WishKitView.bc",
+    "object" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/WishKitView.o",
+    "swift-dependencies" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/WishKitView.swiftdeps",
+    "swiftmodule" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/WishKitView~partial.swiftmodule"
+  },
+  "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/DerivedSources/resource_bundle_accessor.swift" : {
+    "const-values" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/resource_bundle_accessor.swiftconstvalues",
+    "dependencies" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/resource_bundle_accessor.d",
+    "diagnostics" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/resource_bundle_accessor.dia",
+    "index-unit-output-path" : "/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/resource_bundle_accessor.o",
+    "llvm-bc" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/resource_bundle_accessor.bc",
+    "object" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/resource_bundle_accessor.o",
+    "swift-dependencies" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/resource_bundle_accessor.swiftdeps",
+    "swiftmodule" : "/Users/jeffcedilla/iOS/JeffKit/JeffKit/build/JeffKit.build/Debug-iphoneos/JeffKit.build/Objects-normal/arm64/resource_bundle_accessor~partial.swiftmodule"
+  }
+}

@@ -7,7 +7,7 @@ public struct AppInfo: Sendable {
     public let iconName: String
     public let appStoreId: String
     public let tintColor: Color
-    
+
     public init(id: String, nameKey: String, descriptionKey: String, iconName: String, appStoreId: String, tintColor: Color) {
         self.id = id
         self.nameKey = nameKey
@@ -16,24 +16,27 @@ public struct AppInfo: Sendable {
         self.appStoreId = appStoreId
         self.tintColor = tintColor
     }
-    
+
     public var localizedName: String {
         NSLocalizedString(nameKey, bundle: .module, comment: "")
     }
-    
+
     public var localizedDescription: String {
         NSLocalizedString(descriptionKey, bundle: .module, comment: "")
     }
 }
 
+#if os(iOS)
+import UIKit
+
 public struct CrossPromotionView: View {
     let app: AppInfo
     @State private var isPressed = false
-    
+
     public init(app: AppInfo) {
         self.app = app
     }
-    
+
     public var body: some View {
         Button(action: {
             if let url = URL(string: "https://apps.apple.com/app/id\(app.appStoreId)") {
@@ -48,12 +51,12 @@ public struct CrossPromotionView: View {
                     .frame(width: 60, height: 60)
                     .cornerRadius(14)
                     .shadow(color: .black.opacity(0.1), radius: 4, x: 0, y: 2)
-                
+
                 VStack(alignment: .leading, spacing: 6) {
                     Text(app.localizedName)
                         .font(.headline)
                         .foregroundColor(.primary)
-                    
+
                     Text(app.localizedDescription)
                         .font(.subheadline)
                         .foregroundColor(.secondary)
@@ -61,9 +64,9 @@ public struct CrossPromotionView: View {
                         .lineLimit(nil)
                         .fixedSize(horizontal: false, vertical: true)
                 }
-                
+
                 Spacer()
-                
+
                 Image(systemName: "chevron.right")
                     .foregroundColor(.secondary)
                     .font(.caption)
@@ -92,12 +95,12 @@ public struct CrossPromotionView: View {
 public struct CrossPromotionListView: View {
     let apps: [AppInfo]
     let currentAppId: String
-    
+
     public init(apps: [AppInfo], currentAppId: String) {
         self.apps = apps
         self.currentAppId = currentAppId
     }
-    
+
     public var body: some View {
         ScrollView {
             VStack(spacing: 16) {
@@ -107,12 +110,12 @@ public struct CrossPromotionListView: View {
                     .multilineTextAlignment(.center)
                     .padding(.horizontal)
                     .padding(.top)
-                
+
                 ForEach(apps.filter { $0.id != currentAppId }, id: \.id) { app in
                     CrossPromotionView(app: app)
                         .padding(.horizontal)
                 }
-                
+
                 Spacer(minLength: 20)
             }
         }
@@ -123,16 +126,16 @@ public struct CrossPromotionListView: View {
 public struct CrossPromotionNavigationRow: View {
     let apps: [AppInfo]
     let currentAppId: String
-    
+
     public init(apps: [AppInfo], currentAppId: String) {
         self.apps = apps
         self.currentAppId = currentAppId
     }
-    
+
     private var otherAppsCount: Int {
         apps.filter { $0.id != currentAppId }.count
     }
-    
+
     public var body: some View {
         NavigationLink {
             CrossPromotionListView(apps: apps, currentAppId: currentAppId)
@@ -144,7 +147,7 @@ public struct CrossPromotionNavigationRow: View {
                     .font(.title3)
                     .foregroundColor(Color("CourtGray"))
                     .frame(width: 30)
-                
+
                 VStack(alignment: .leading) {
                     Text(NSLocalizedString("cross_promotion.more_apps", bundle: .module, comment: ""))
                         .foregroundColor(.primary)
@@ -154,9 +157,9 @@ public struct CrossPromotionNavigationRow: View {
                             .foregroundColor(Color("CourtGray"))
                     }
                 }
-                
+
                 Spacer()
-                
+
                 Image(systemName: "chevron.right")
                     .font(.caption)
                     .foregroundColor(Color("CourtGray"))
@@ -171,7 +174,7 @@ public struct CrossPromotionNavigationRow: View {
 
 struct CrossPromotionRow: View {
     let app: AppInfo
-    
+
     var body: some View {
         HStack(spacing: 12) {
             Image(app.iconName, bundle: .module)
@@ -179,18 +182,18 @@ struct CrossPromotionRow: View {
                 .aspectRatio(contentMode: .fit)
                 .frame(width: 40, height: 40)
                 .cornerRadius(9)
-            
+
             VStack(alignment: .leading, spacing: 2) {
                 Text(app.localizedName)
                     .font(.body)
                     .foregroundColor(.primary)
-                
+
                 Text(app.localizedDescription)
                     .font(.caption)
                     .foregroundColor(.secondary)
                     .lineLimit(1)
             }
-            
+
             Spacer()
         }
         .contentShape(Rectangle())
@@ -202,6 +205,7 @@ struct CrossPromotionRow: View {
         }
     }
 }
+#endif
 
 public class JeffApps {
     public static let pickleballHub = AppInfo(
@@ -212,7 +216,7 @@ public class JeffApps {
         appStoreId: "6748840036",
         tintColor: Color.green
     )
-    
+
     public static let gratitudeJournal = AppInfo(
         id: "gratitude-journal",
         nameKey: "app.gratitude.name",
@@ -221,7 +225,7 @@ public class JeffApps {
         appStoreId: "6743777694",
         tintColor: Color.orange
     )
-    
+
     public static let habitTracker = AppInfo(
         id: "habit-tracker",
         nameKey: "app.habittracker.name",
@@ -230,7 +234,7 @@ public class JeffApps {
         appStoreId: "6748330634",
         tintColor: Color.blue
     )
-    
+
     public static let flashcards = AppInfo(
         id: "flashcards",
         nameKey: "app.flashcards.name",
@@ -239,7 +243,7 @@ public class JeffApps {
         appStoreId: "6747951708",
         tintColor: Color.purple
     )
-    
+
     public static let promptManager = AppInfo(
         id: "prompt-manager",
         nameKey: "app.promptmanager.name",
@@ -248,7 +252,7 @@ public class JeffApps {
         appStoreId: "6748180031",
         tintColor: Color.indigo
     )
-    
+
     public static let victoryLog = AppInfo(
         id: "victory-log",
         nameKey: "app.victorylog.name",
@@ -257,7 +261,7 @@ public class JeffApps {
         appStoreId: "6636551443",
         tintColor: Color.yellow
     )
-    
+
     public static let recipes = AppInfo(
         id: "recipes",
         nameKey: "app.recipes.name",
@@ -266,7 +270,7 @@ public class JeffApps {
         appStoreId: "6746423883",
         tintColor: Color.orange
     )
-    
+
     public static let pizza = AppInfo(
         id: "pizza",
         nameKey: "app.pizza.name",
@@ -275,7 +279,7 @@ public class JeffApps {
         appStoreId: "6746828561",
         tintColor: Color.red
     )
-    
+
     public static let pomodoroQuest = AppInfo(
         id: "pomodoro-quest",
         nameKey: "app.pomodoroquest.name",
@@ -284,7 +288,7 @@ public class JeffApps {
         appStoreId: "1195801405",
         tintColor: Color.purple
     )
-    
+
     public static let intermittentFasting = AppInfo(
         id: "intermittent-fasting",
         nameKey: "app.intermittentfasting.name",
@@ -293,7 +297,25 @@ public class JeffApps {
         appStoreId: "6751149779",
         tintColor: Color.green
     )
-    
+
+    public static let birthdayCountdown = AppInfo(
+        id: "birthday-countdown",
+        nameKey: "app.birthdaycountdown.name",
+        descriptionKey: "app.birthdaycountdown.description",
+        iconName: "BirthdayCountdownIcon",
+        appStoreId: "6751612160",
+        tintColor: Color.pink
+    )
+
+    public static let hydroHero = AppInfo(
+        id: "hydro-hero",
+        nameKey: "app.hydrohero.name",
+        descriptionKey: "app.hydrohero.description",
+        iconName: "HydroHeroIcon",
+        appStoreId: "6753203710",
+        tintColor: Color.blue
+    )
+
     public static let all: [AppInfo] = [
         pickleballHub,
         gratitudeJournal,
@@ -304,6 +326,8 @@ public class JeffApps {
         recipes,
         pizza,
         pomodoroQuest,
-        intermittentFasting
+        intermittentFasting,
+        birthdayCountdown,
+        hydroHero
     ]
 }

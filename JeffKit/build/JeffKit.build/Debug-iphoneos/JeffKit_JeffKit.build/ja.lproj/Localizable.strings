@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>app.birthdaycountdown.description</key>
+	<string>もう誕生日を忘れません！美しいカウントダウン、スマートリマインダー、思いやりのあるお祝い機能で愛する人の特別な日を追跡しましょう。</string>
+	<key>app.birthdaycountdown.name</key>
+	<string>誕生日カウントダウン</string>
+	<key>app.flashcards.description</key>
+	<string>スマートなフラッシュカードでどんな科目もマスターしましょう。学生、プロフェッショナル、生涯学習者に最適。より賢く学習を、より困難ではなく！</string>
+	<key>app.flashcards.name</key>
+	<string>フラッシュカードマスター</string>
+	<key>app.gratitude.description</key>
+	<string>1日わずか3分で心構えを変革。美しいテーマ、感動的なプロンプトで、幸せが木のように成長するのを見てください！</string>
+	<key>app.gratitude.name</key>
+	<string>感謝の日記</string>
+	<key>app.habittracker.description</key>
+	<string>美しくミニマルなトラッカーで人生を変える習慣を築きましょう。進捗を見て、モチベーションを保ち、最高の自分になりましょう！</string>
+	<key>app.habittracker.name</key>
+	<string>習慣トラッカー</string>
+	<key>app.intermittentfasting.description</key>
+	<string>間欠断食で健康目標を達成しましょう。断食ウィンドウを追跡し、進捗を監視し、健康的な食習慣を楽に築きましょう！</string>
+	<key>app.intermittentfasting.name</key>
+	<string>間欠断食</string>
+	<key>app.pickleball.description</key>
+	<string>何千人ものプレーヤーとともにゲームを追跡し、スキルを向上させましょう。コートを見つけ、プレーヤーとつながり、ピックルボールゲームをレベルアップ！</string>
+	<key>app.pickleball.name</key>
+	<string>PickleballHub</string>
+	<key>app.pizza.description</key>
+	<string>ピザゲームを完璧に！創作を記録し、生地の比率を計算し、ナポリタンからデトロイトまであらゆるスタイルのレシピを発見。</string>
+	<key>app.pizza.name</key>
+	<string>Za - ピザジャーナル</string>
+	<key>app.pomodoroquest.description</key>
+	<string>生産性をレベルアップ！RPG要素を持つゲーム化されたポモドーロタイマー。XPを獲得し、実績をアンロックし、先延ばしを撃破！</string>
+	<key>app.pomodoroquest.name</key>
+	<string>PomodoroQuest</string>
+	<key>app.promptmanager.description</key>
+	<string>AIワークフローをパワーアップ！最高のプロンプトを保存、整理、素早くアクセス。AIパワーユーザーのための究極のツール。</string>
+	<key>app.promptmanager.name</key>
+	<string>プロンプトマネージャーAI</string>
+	<key>app.recipes.description</key>
+	<string>料理の冒険を整理しましょう！レシピを保存し、食事を計画し、買い物リストを作成。キッチンでの成功のための個人的なスーシェフ。</string>
+	<key>app.recipes.name</key>
+	<string>Sous: レシピオーガナイザー</string>
+	<key>app.victorylog.description</key>
+	<string>勝利を追跡し、進歩を祝い、止められない勢いを築きましょう。小さな勝利を持続的な成功に変えましょう！</string>
+	<key>app.victorylog.name</key>
+	<string>勝利ログ</string>
+	<key>cross_promotion.discover_apps</key>
+	<string>より良く生きるために設計されたその他のアプリを発見</string>
+	<key>cross_promotion.more_apps</key>
+	<string>その他のアプリ</string>
+	<key>cross_promotion.other_apps_count</key>
+	<string>この開発者による他の%lldのアプリ</string>
+</dict>
+</plist>

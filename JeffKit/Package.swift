@@ -6,7 +6,8 @@ import PackageDescription
 let package = Package(
     name: "JeffKit",
     platforms: [
-        .iOS(.v17)    // Set minimum iOS version to 16.0
+        .iOS(.v17),
+        .macOS(.v13)
     ],
     products: [
         // Products define the executables and libraries a package produces, making them visible to other packages.

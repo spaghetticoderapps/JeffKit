@@ -13,7 +13,11 @@ public class Eventer {
     @MainActor public static let shared = Eventer()
     
     public func initializeMixpanel(token: String) {
+        #if os(iOS)
         Mixpanel.initialize(token: token, trackAutomaticEvents: false)
+        #else
+        Mixpanel.initialize(token: token)
+        #endif
     }
     
     public init() {

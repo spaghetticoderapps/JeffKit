@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>app.birthdaycountdown.description</key>
+	<string>¡Nunca pierdas otro cumpleaños! Rastrea los días especiales de tus seres queridos con hermosas cuentas regresivas, recordatorios inteligentes y funciones de celebración consideradas.</string>
+	<key>app.birthdaycountdown.name</key>
+	<string>Cuenta Regresiva de Cumpleaños</string>
+	<key>app.flashcards.description</key>
+	<string>Domina cualquier materia con tarjetas inteligentes. Perfecto para estudiantes, profesionales y aprendices de por vida. ¡Estudia de forma más inteligente, no más difícil!</string>
+	<key>app.flashcards.name</key>
+	<string>Maestro de Tarjetas</string>
+	<key>app.gratitude.description</key>
+	<string>Transforma tu mentalidad en solo 3 minutos al día. Temas hermosos, inspiraciones motivadoras, ¡y ve tu felicidad crecer como un árbol!</string>
+	<key>app.gratitude.name</key>
+	<string>Diario de Gratitud</string>
+	<key>app.habittracker.description</key>
+	<string>Construye hábitos que cambien tu vida con nuestro hermoso y minimalista rastreador. Ve tu progreso, mantente motivado, ¡y conviértete en tu mejor versión!</string>
+	<key>app.habittracker.name</key>
+	<string>Rastreador de Hábitos</string>
+	<key>app.intermittentfasting.description</key>
+	<string>Alcanza tus metas de salud con ayuno intermitente. Rastrea ventanas de ayuno, monitorea el progreso y construye hábitos alimenticios saludables sin esfuerzo!</string>
+	<key>app.intermittentfasting.name</key>
+	<string>Ayuno Intermitente</string>
+	<key>app.pickleball.description</key>
+	<string>Únete a miles de jugadores que siguen sus partidos y mejoran sus habilidades. ¡Encuentra canchas, conéctate con jugadores y mejora tu juego de pickleball!</string>
+	<key>app.pickleball.name</key>
+	<string>PickleballHub</string>
+	<key>app.pizza.description</key>
+	<string>¡Perfecciona tu juego de pizza! Registra tus creaciones, calcula proporciones de masa y descubre recetas para cada estilo desde napolitana hasta Detroit.</string>
+	<key>app.pizza.name</key>
+	<string>Za - Diario de Pizza</string>
+	<key>app.pomodoroquest.description</key>
+	<string>¡Sube de nivel tu productividad! Temporizador Pomodoro gamificado con elementos RPG. ¡Gana XP, desbloquea logros y derrota la procrastinación!</string>
+	<key>app.pomodoroquest.name</key>
+	<string>PomodoroQuest</string>
+	<key>app.promptmanager.description</key>
+	<string>¡Potencia tu flujo de trabajo con IA! Guarda, organiza y accede rápidamente a tus mejores prompts. La herramienta definitiva para usuarios avanzados de IA.</string>
+	<key>app.promptmanager.name</key>
+	<string>Gestor de Prompts IA</string>
+	<key>app.recipes.description</key>
+	<string>¡Organiza tus aventuras culinarias! Guarda recetas, planifica comidas y crea listas de compras. Tu chef personal para el éxito en la cocina.</string>
+	<key>app.recipes.name</key>
+	<string>Sous: Organizador de Recetas</string>
+	<key>app.victorylog.description</key>
+	<string>Registra tus victorias, celebra el progreso y construye un impulso imparable. ¡Transforma pequeñas victorias en éxito duradero!</string>
+	<key>app.victorylog.name</key>
+	<string>Registro de Victorias</string>
+	<key>cross_promotion.discover_apps</key>
+	<string>Descubre más aplicaciones diseñadas para ayudarte a vivir mejor</string>
+	<key>cross_promotion.more_apps</key>
+	<string>Más Aplicaciones</string>
+	<key>cross_promotion.other_apps_count</key>
+	<string>%lld otras aplicaciones de este desarrollador</string>
+</dict>
+</plist>
